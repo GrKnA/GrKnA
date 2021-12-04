@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Gürkan
-- 🖥️My goal is to provide you with simple but fun python codes.
+
 -
