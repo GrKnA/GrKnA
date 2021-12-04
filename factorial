@@ -1,0 +1,21 @@
+
+def factoryel() :
+
+    result = 1
+    factoryel_value = float(input("factoryel value : "))
+
+    if factoryel_value > 0 and factoryel_value == int(factoryel_value) :
+        while factoryel_value :
+            result *= factoryel_value
+            factoryel_value -= 1
+
+        print(int(result))
+    
+    elif factoryel_value == 0 :
+        print(result)
+    
+    else :
+        print("factorial cannot be taken")
+
+factoryel()
+   
